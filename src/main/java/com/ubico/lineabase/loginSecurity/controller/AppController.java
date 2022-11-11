@@ -1,4 +1,4 @@
-package com.ubico.lineabase;
+package com.ubico.lineabase.loginSecurity.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
